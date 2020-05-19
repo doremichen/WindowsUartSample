@@ -1,2 +1,2 @@
 # WindowsUartSample
-This is wondows uart exercise, need use virtual studio ide to open.
+This is wondows uart exercise, need to use virtual studio ide to open.
